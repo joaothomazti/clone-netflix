@@ -1,0 +1,1 @@
+### Clone da pagina do NETFLIX, funcionalidades nos botões assistir e mais informações
